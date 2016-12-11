@@ -1,3 +1,3 @@
 # SWD Converter
 
-## Convert text-based Destiny decks to TableTop Simulator JSON format.
+## Convert text-based Star Wars Destiny decks to TableTop Simulator JSON format.
