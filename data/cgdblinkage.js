@@ -167,7 +167,7 @@ cgdblinkage = [
 {"CardID":1404,"Nickname":"The Best Defense","CGDBName":"The Best Defense... (Awakenings)","CGDBType":"event","unique":0},
 {"CardID":1454,"Nickname":"The Force Is Strong","CGDBName":"The Force is Strong (Awakenings)","CGDBType":"support","unique":0},
 {"CardID":1907,"Nickname":"The Power Of The Force","CGDBName":"The Power of the Force (Awakenings)","CGDBType":"event","unique":0},
-{"CardID":1366,"Nickname":"Thermal Detonator","CGDBName":"Thermal Detonator (Awakenings) ","CGDBType":"upgrade","unique":0},
+{"CardID":1366,"Nickname":"Thermal Detonator","CGDBName":"Thermal Detonator (Awakenings)","CGDBType":"upgrade","unique":0},
 {"CardID":1321,"Nickname":"Tusken Raider","CGDBName":"Tusken Raider (Awakenings)","CGDBType":"character","unique":0},
 {"CardID":1430,"Nickname":"Underworld Connections","CGDBName":"Underworld Connections (Awakenings)","CGDBType":"support","unique":0},
 {"CardID":1921,"Nickname":"Unpredictable","CGDBName":"Unpredictable (Awakenings)","CGDBType":"event","unique":0},
